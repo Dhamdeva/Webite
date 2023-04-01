@@ -1,0 +1,150 @@
+/* ***Navbar*****************************/
+*{
+     font-family: sans-serif;
+}
+.container-fluid{
+    background-color: var(--background-color);
+}
+.container{
+    height: 100vh;
+    margin-top: 100px;
+}
+.dropdown-menu{
+    display: none;
+}
+.navbar-nav a{
+    width: 200px;
+    text-align: center;
+} 
+/********************Start-Up***********************************************/
+ .start-up .dropdown-menu li a:nth-child(1),
+.license .dropdown-menu li a:nth-child(1),
+.tax .dropdown-menu li a:nth-child(1){
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    border: none;
+    position: absolute;
+    box-shadow: 0 0 10px ;
+}
+.start-up ul {
+    min-width: 1200px;
+    background-color:var(--background-color);
+    height: 430px;
+    overflow: hidden;
+}
+.start-up .dropdown-menu a:hover,
+.license .dropdown-menu a:hover,
+.tax .dropdown-menu a:hover{
+    background:none ;
+}
+.start-up .dropdown-menu a,.license .dropdown-menu a,.tax .dropdown-menu a{
+    text-align: left !important;
+}
+
+.business-conversion{
+    position: relative;
+    bottom: 420px;
+    left: 380px;
+}
+hr{
+    width: 200px;
+}
+.business-conversion hr{
+    position: relative;
+    top:35px ;
+    width: 200px;
+}
+.ngo{
+    position: relative;
+    bottom: 385px;
+    left: 380px;
+}
+
+.business-closure{
+    position: relative;
+    bottom: 795px;
+    left: 760px;
+}
+.business-closure hr{
+    position: relative;
+    top:57px ;
+}
+.secretarial{
+    position: relative;
+    bottom: 735px;
+    left: 760px;
+} 
+/*********lincense*************************************************/
+ .license ul{
+    min-width: 500px;
+    background-color: var(--background-color);
+    height: 430px;
+    overflow: hidden;
+}
+.license .iso{
+    position: relative;
+    bottom: 420px;
+    left: 300px;
+} 
+.tax ul{
+    min-width: 300px;
+    background: var(--background-color);
+}
+
+/*****************Business Reg**********************************************/
+ .business h1{
+    font-weight: 600;
+    font-size: calc(1.8rem + 2vw);
+}
+.business p,.private p{
+    font-size: 18px;
+    margin-top: 20px;
+}
+.business input{
+    border: none;
+}
+.business .search{
+    border: 2px solid var(--primary-color);
+}
+.business .search button{
+    border: nodivne;
+    background: var(--secondary-color);
+    border-radius:12px ;
+}
+.business .search input{
+    background: none;
+}
+.business .search input:hover{
+    background: none;
+}
+ .business .service,.private .service{
+    background: var(--primary-color);
+    border: none;
+    border-radius: 10px;
+    width: 300px;
+}
+.business .service a ,.private .service a{
+    text-decoration: none;
+    font-size: 20px;
+    background: none;
+    color: var(--text-color-white);
+}  
+.private h6{
+    font-weight: 700;
+    font-size: 20px;
+}
+.private h1{
+    font-size: calc(1.4rem + 1.6vw) ;
+    font-weight: 700;
+}
+.form button{
+    border: none;
+    background-color: var(--primary-color);
+    border-radius: 15px;
+    width: 380px;
+    color: var(--text-color-white);
+}
