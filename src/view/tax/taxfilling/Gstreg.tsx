@@ -8,7 +8,7 @@ export function Gstreg(){
                     <div className="col-md-7">
                         <Private
                         h1={'GST Registration'}
-                        p={"The procedure of GST registration is entirely an online process and requires no manual intervention. The process of GST registration is important to avail the taxation benefits. Corpbiz will help you.."}
+                        p={"The procedure of GST registration is entirely an online process and requires no manual intervention. The process of GST registration is important to avail the taxation benefits. PayPe will help you.."}
                         h6={"100000 +"}
                         p1={"Happy Customer"}
                         h61={"1000 +"}

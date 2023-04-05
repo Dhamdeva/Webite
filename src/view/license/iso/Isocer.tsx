@@ -8,7 +8,7 @@ export function Isocer(){
                     <div className="col-md-7">
                         <Private
                         h1={'ISO 2768-1 Certification'}
-                        p={"Ensure that you enjoy the general tolerances to your mechanical products with ISO 2768-1 Certification. Get in touch with Corpbiz."}
+                        p={"Ensure that you enjoy the general tolerances to your mechanical products with ISO 2768-1 Certification. Get in touch with PayPe."}
                         h6={"100000 +"}
                         p1={"Happy Customer"}
                         h61={"1000 +"}

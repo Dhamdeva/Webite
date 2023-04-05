@@ -7,8 +7,8 @@ export function Fssaieat(){
                 <div className="row">
                     <div className="col-md-7">
                         <Business
-                        h1={"Easiest way to mining your Business with Corpbiz"}
-                        p={"We are highly focused on business services and that will lead positively to the future web with Corpbiz."}
+                        h1={"Easiest way to mining your Business with PayPe"}
+                        p={"We are highly focused on business services and that will lead positively to the future web with PayPe."}
                         />
                     </div>
                     <div className="col-md-5">

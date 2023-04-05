@@ -8,7 +8,7 @@ export function Fssailicense(){
                     <div className="col-md-7">
                         <Private
                         h1={'FSSAI License'}
-                        p={"Connect with Corpbiz to get your license without tedious paperwork and legal hassles."}
+                        p={"Connect with PayPe to get your license without tedious paperwork and legal hassles."}
                         h6={"100000 +"}
                         p1={"Happy Customer"}
                         h61={"1000 +"}

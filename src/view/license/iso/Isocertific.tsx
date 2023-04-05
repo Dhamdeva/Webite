@@ -8,7 +8,7 @@ export function Isocertific(){
                     <div className="col-md-7">
                         <Private
                         h1={'ISO 9001 2015'}
-                        p={"Get your ISO 9001 2015 Certification with Corpbiz. Our experts will help you in obtaining ISO 9001 2015 Certificate without any hassle."}
+                        p={"Get your ISO 9001 2015 Certification with PayPe. Our experts will help you in obtaining ISO 9001 2015 Certificate without any hassle."}
                         h6={"100000 +"}
                         p1={"Happy Customer"}
                         h61={"1000 +"}

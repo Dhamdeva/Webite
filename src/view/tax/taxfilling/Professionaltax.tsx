@@ -8,7 +8,7 @@ export function Professionaltax(){
                     <div className="col-md-7">
                         <Private
                         h1={'Professional Tax Registration'}
-                        p={"Corpbiz is a One Stop Destination for all Registration Services. Contact us and get your Profession Tax Registration with ease."}
+                        p={"PayPe is a One Stop Destination for all Registration Services. Contact us and get your Profession Tax Registration with ease."}
                         h6={"100000 +"}
                         p1={"Happy Customer"}
                         h61={"1000 +"}

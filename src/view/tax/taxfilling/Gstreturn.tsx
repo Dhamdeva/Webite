@@ -8,7 +8,7 @@ export function Gstreturn(){
                     <div className="col-md-7">
                         <Private
                         h1={'GST Return Filing'}
-                        p={"Get your GST Return Filing done with Corpbiz. Our experts will provide assistance throughout the process."}
+                        p={"Get your GST Return Filing done with PayPe. Our experts will provide assistance throughout the process."}
                         h6={"100000 +"}
                         p1={"Happy Customer"}
                         h61={"1000 +"}

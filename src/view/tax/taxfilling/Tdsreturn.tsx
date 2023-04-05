@@ -8,7 +8,7 @@ export function Tdsreturn(){
                     <div className="col-md-7">
                         <Private
                         h1={'TDS Return Filing'}
-                        p={"Contact Corpbiz to get professional assistance in TDS Return Filing"}
+                        p={"Contact PayPe to get professional assistance in TDS Return Filing"}
                         h6={"100000 +"}
                         p1={"Happy Customer"}
                         h61={"1000 +"}

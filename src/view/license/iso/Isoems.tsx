@@ -8,7 +8,7 @@ export function Isoems(){
                     <div className="col-md-7">
                         <Private
                         h1={'ISO 14001 EMS'}
-                        p={"Corpbiz guides you in framing specific goals for your organization to meet environment-friendly goals."}
+                        p={"PayPe guides you in framing specific goals for your organization to meet environment-friendly goals."}
                         h6={"100000 +"}
                         p1={"Happy Customer"}
                         h61={"1000 +"}

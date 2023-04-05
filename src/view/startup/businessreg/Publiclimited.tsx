@@ -8,7 +8,7 @@ export function Publiclimitedreg(){
                     <div className="col-md-7">
                         <Private
                         h1={'Public Limited Company Registration'}
-                        p={"Incorporating a Public Company will provide you security & enjoys far more credibility than other business forms. Count on Corpbiz, and allow us to assist you in Registering Public Limited Company.."}
+                        p={"Incorporating a Public Company will provide you security & enjoys far more credibility than other business forms. Count on PayPe, and allow us to assist you in Registering Public Limited Company.."}
                         h6={"100000 +"}
                         p1={"Happy Customer"}
                         h61={"1000 +"}

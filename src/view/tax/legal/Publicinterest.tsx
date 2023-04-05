@@ -8,7 +8,7 @@ export function Publicinterest(){
                     <div className="col-md-7">
                         <Private
                         h1={'Public Interest Litigation'}
-                        p={"Get a well-drafted Public Interest Litigation petition to get speedy trials for the protection of public interests. Yes! You are just a phone call away from the Finest and dedicated CorpBiz team in le.."}
+                        p={"Get a well-drafted Public Interest Litigation petition to get speedy trials for the protection of public interests. Yes! You are just a phone call away from the Finest and dedicated PayPe team in le.."}
                         h6={"100000 +"}
                         p1={"Happy Customer"}
                         h61={"1000 +"}

@@ -8,7 +8,7 @@ export function Wordmark(){
                     <div className="col-md-7">
                         <Private
                         h1={'Wordmark Registration in India'}
-                        p={"If you want to get a wordmark registration for your company without any difficulties, then Corpbiz is there to help you."}
+                        p={"If you want to get a wordmark registration for your company without any difficulties, then PayPe is there to help you."}
                         h6={"100000 +"}
                         p1={"Happy Customer"}
                         h61={"1000 +"}

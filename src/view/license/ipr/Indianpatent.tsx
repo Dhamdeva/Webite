@@ -8,7 +8,7 @@ export function Indianpatent(){
                     <div className="col-md-7">
                         <Private
                         h1={'Indian Patent Search'}
-                        p={"Do you need assistance with your Indian patent search? Get quick and accurate results. Contact Corpbiz Now!"}
+                        p={"Do you need assistance with your Indian patent search? Get quick and accurate results. Contact PayPe Now!"}
                         h6={"100000 +"}
                         p1={"Happy Customer"}
                         h61={"1000 +"}

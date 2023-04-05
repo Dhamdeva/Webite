@@ -8,7 +8,7 @@ export function Trademarkclass(){
                     <div className="col-md-7">
                         <Private
                         h1={'Trademark Classes Finder'}
-                        p={"Get your Trademark Classes Finder to uniform your unique needs in a very affordable service! Yes! You are just a phone call away from the well-organized Trademark Class Service of the CorpBiz team in.."}
+                        p={"Get your Trademark Classes Finder to uniform your unique needs in a very affordable service! Yes! You are just a phone call away from the well-organized Trademark Class Service of the PayPe team in.."}
                         h6={"100000 +"}
                         p1={"Happy Customer"}
                         h61={"1000 +"}

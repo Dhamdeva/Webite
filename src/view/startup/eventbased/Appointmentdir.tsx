@@ -8,7 +8,7 @@ export function Appointmentdir(){
                     <div className="col-md-7">
                         <Private
                         h1={'Appointment and Resignation of Directors'}
-                        p={"It is well said that Directors are the brain of the company. Get the finest directors on board with a change of directors With CorpBiz."}
+                        p={"It is well said that Directors are the brain of the company. Get the finest directors on board with a change of directors With PayPe."}
                         h6={"100000 +"}
                         p1={"Happy Customer"}
                         h61={"1000 +"}

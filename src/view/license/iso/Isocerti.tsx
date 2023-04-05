@@ -8,7 +8,7 @@ export function Isocerti(){
                     <div className="col-md-7">
                         <Private
                         h1={'ISO 16001 Certification'}
-                        p={"Corpbiz is here to guide you in obtaining ISO 16001 Certification to ensure that you comply with ISO 16001 standards to improve your efficiency."}
+                        p={"PayPe is here to guide you in obtaining ISO 16001 Certification to ensure that you comply with ISO 16001 standards to improve your efficiency."}
                         h6={"100000 +"}
                         p1={"Happy Customer"}
                         h61={"1000 +"}

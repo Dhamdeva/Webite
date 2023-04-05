@@ -8,7 +8,7 @@ export function Incometax(){
                     <div className="col-md-7">
                         <Private
                         h1={'Income Tax Return Filing'}
-                        p={"Let Corpbiz do the Income Tax Return Filing for you so you can solely focus on your income rather than income tax Return Filing"}
+                        p={"Let PayPe do the Income Tax Return Filing for you so you can solely focus on your income rather than income tax Return Filing"}
                         h6={"100000 +"}
                         p1={"Happy Customer"}
                         h61={"1000 +"}

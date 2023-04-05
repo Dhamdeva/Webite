@@ -8,7 +8,7 @@ export function Conversionpublic(){
                     <div className="col-md-7">
                         <Private
                         h1={'Conversion of Pvt. Ltd. to Public Limited'}
-                        p={"When it comes to offering liberating possibilities for registering your Business, nothing compares realistic Corpbiz advisors. Go public by inviting investors!"}
+                        p={"When it comes to offering liberating possibilities for registering your Business, nothing compares realistic PayPe advisors. Go public by inviting investors!"}
                         h6={"100000 +"}
                         p1={"Happy Customer"}
                         h61={"1000 +"}

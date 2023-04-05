@@ -8,7 +8,7 @@ export function Consumercomplaint(){
                     <div className="col-md-7">
                         <Private
                         h1={'Consumer Complaint'}
-                        p={"We feel that the Customer Is God! If any company is failed to serve proper service or right product, you can take immediate action with the help of CorpBiz Professionals. CorpBiz will resolve your cas.."}
+                        p={"We feel that the Customer Is God! If any company is failed to serve proper service or right product, you can take immediate action with the help of PayPe Professionals. PayPe will resolve your cas.."}
                         h6={"100000 +"}
                         p1={"Happy Customer"}
                         h61={"1000 +"}

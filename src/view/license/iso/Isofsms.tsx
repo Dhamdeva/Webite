@@ -8,7 +8,7 @@ export function Isofsms(){
                     <div className="col-md-7">
                         <Private
                         h1={'ISO 22000 FSMS'}
-                        p={"Corpbiz is here to assist you in obtaining ISO 22000 FMS for your organisation to ensure that being a producer of food items, you are managing the food safety of your products and the well-being of yo.."}
+                        p={"PayPe is here to assist you in obtaining ISO 22000 FMS for your organisation to ensure that being a producer of food items, you are managing the food safety of your products and the well-being of yo.."}
                         h6={"100000 +"}
                         p1={"Happy Customer"}
                         h61={"1000 +"}

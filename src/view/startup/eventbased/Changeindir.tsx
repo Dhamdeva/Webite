@@ -8,7 +8,7 @@ export function Changeindir(){
                     <div className="col-md-7">
                         <Private
                         h1={'Change in Directors'}
-                        p={"Adding or removing a Director in a Company must be done with proper legal documentation. Corpbiz can help add or remove a Director without any hassle."}
+                        p={"Adding or removing a Director in a Company must be done with proper legal documentation. PayPe can help add or remove a Director without any hassle."}
                         h6={"100000 +"}
                         p1={"Happy Customer"}
                         h61={"1000 +"}

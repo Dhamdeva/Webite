@@ -8,7 +8,7 @@ export function Trademark(){
                     <div className="col-md-7">
                         <Private
                         h1={'Trademark Renewal'}
-                        p={"Get a notification that your trademark has been renewed successfully for another ten years. Count CorpBiz and find the Finest and dedicated CorpBiz team in legal services. Yes, Trademark Renewal is at.."}
+                        p={"Get a notification that your trademark has been renewed successfully for another ten years. Count PayPe and find the Finest and dedicated PayPe team in legal services. Yes, Trademark Renewal is at.."}
                         h6={"100000 +"}
                         p1={"Happy Customer"}
                         h61={"1000 +"}
